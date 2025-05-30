@@ -2,6 +2,11 @@
 #include <stdlib.h>
 #include <locale.h>
 
+// Criado por: Pedro Rufino
+// Aluno: 202503565627@alunos.unifavip.edu.br
+// Descrição: Sistema criado e optimizado desde o nível novato ao nível mestre conforme as videoaulas e as solicitações evoluiram.
+// Além disso, o sistema foi otimizado e modularizado para evitar repetições redundantes de código.
+
 #define TAMANHO 8
 
 // Símbolos Unicode para as peças de xadrez
